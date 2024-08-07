@@ -1,1 +1,3 @@
 Author A is going to work on this scenario. He will come up with his own plot lines and then show it to Author B.
+
+Author A is going to work on this scenario at the same time that Author B is working on scenario2. Notice that Author A does not know that Author B is working on scenario2 because it has not been pushed.
